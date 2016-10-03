@@ -85,6 +85,7 @@ let movies = {
     "code": "regular"
   },
   // etc
+    //etc
 };
 
 console.log(statement(customer, movies));
